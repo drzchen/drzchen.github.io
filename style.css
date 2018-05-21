@@ -1,4 +1,4 @@
-/* CSS Document */
+﻿/* CSS Document */
 
 body {
   background-color: gray;
@@ -62,23 +62,23 @@ body {
 
 .introimage {
   background-color: white;
-  margin: 0 auto; 
+  margin: 0 auto;
   padding: 5px 5px 5px 5px;
   width: 160px;
   /*border: 2px solid #aaa;*/
 }
 
-h1 {  
+h1 {
   margin-top: 15px;
   margin-bottom: 0px;
-  font-size: 34px; 
+  font-size: 34px;
   color: #202020;
 }
 
 h2 {
   margin-top: 15px;
   margin-bottom: 0px;
-  font-size: 20px; 
+  font-size: 20px;
   color: #202020;
 }
 
@@ -89,7 +89,7 @@ h3 {
   color: #202020;
 }
 
-p { 
+p {
   margin-top: 5px;
   margin-bottom: 5px;
 }
